@@ -1,6 +1,4 @@
 import React from "react";
-import ScrollAnimation from "react-animate-on-scroll";
-
 const Events = () => {
   return (
     <section class="section event bg-black-10" aria-label="event" id="event">
@@ -9,7 +7,6 @@ const Events = () => {
         <h2 class="section-title headline-1 text-center">Upcoming Event</h2>
         <ul class="grid-list">
           <li>
-            <ScrollAnimation animateIn="bounceInUp" duration={2}>
               {" "}
               <div
                 class="event-card has-before hover:shine wow bounceInUp"
@@ -38,11 +35,9 @@ const Events = () => {
                   </h3>
                 </div>
               </div>
-            </ScrollAnimation>
           </li>
 
           <li>
-            <ScrollAnimation animateIn="bounceInUp" duration={3}>
               <div
                 class="event-card has-before hover:shine wow bounceInUp"
                 data-wow-delay="0.4s"
@@ -73,10 +68,9 @@ const Events = () => {
                   </h3>
                 </div>
               </div>
-            </ScrollAnimation>
+
           </li>
           <li>
-            <ScrollAnimation animateIn="bounceInUp" duration={4}>
               <div
                 class="event-card has-before hover:shine wow bounceInUp"
                 data-wow-delay="0.8s"
@@ -104,7 +98,6 @@ const Events = () => {
                   </h3>
                 </div>
               </div>
-            </ScrollAnimation>
           </li>
         </ul>
         <a href="#" class="button button-primary">

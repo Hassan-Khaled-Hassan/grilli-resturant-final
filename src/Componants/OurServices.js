@@ -1,5 +1,4 @@
 import React from 'react'
-import ScrollAnimation from 'react-animate-on-scroll';
 
 const OurServices = () => {
     
@@ -23,7 +22,6 @@ const OurServices = () => {
 
         <ul className="grid-list">
           <li>
-            <ScrollAnimation animateIn="bounceInUp" duration={3}>
               <div
                 className="service-card overflow-hidden wow bounceInUp"
                 data-wow-delay="0s"
@@ -61,11 +59,10 @@ const OurServices = () => {
                   </a>
                 </div>
               </div>
-            </ScrollAnimation>
           </li>
 
           <li>
-            <ScrollAnimation animateIn="bounceInUp" duration={4}>
+
               {" "}
               <div
                 className="service-card overflow-hidden wow bounceInUp"
@@ -104,11 +101,10 @@ const OurServices = () => {
                   </a>
                 </div>
               </div>
-            </ScrollAnimation>
+
           </li>
 
           <li>
-            <ScrollAnimation animateIn="bounceInUp" duration={6}>
               <div
                 className="service-card overflow-hidden wow bounceInUp"
                 data-wow-delay="0.6s"
@@ -146,7 +142,6 @@ const OurServices = () => {
                   </a>
                 </div>
               </div>
-            </ScrollAnimation>
           </li>
         </ul>
 

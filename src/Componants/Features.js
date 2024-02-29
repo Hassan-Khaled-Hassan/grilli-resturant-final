@@ -1,5 +1,5 @@
 import React from 'react'
-import ScrollAnimation from 'react-animate-on-scroll';
+
 
 const Features = () => {
   return (
@@ -11,7 +11,6 @@ const Features = () => {
 
         <ul class="grid-list">
           <li class="feature-item">
-            <ScrollAnimation animateIn="bounceInUp" duration={2}>
               {" "}
               <div class="feature-card wow bounceInUp" data-wow-delay="0s">
                 <div class="card-icon">
@@ -30,11 +29,9 @@ const Features = () => {
                   Lorem Ipsum is simply dummy printing and typesetting.
                 </p>
               </div>
-            </ScrollAnimation>
           </li>
 
           <li class="feature-item">
-            <ScrollAnimation animateIn="bounceInDown" duration={3}>
               <div class="feature-card wow bounceInDown" data-wow-delay="0.3s">
                 <div class="card-icon">
                   <img
@@ -52,11 +49,10 @@ const Features = () => {
                   Lorem Ipsum is simply dummy printing and typesetting.
                 </p>
               </div>
-            </ScrollAnimation>
+
           </li>
 
           <li class="feature-item">
-            <ScrollAnimation animateIn="bounceInUp" duration={4}>
               {" "}
               <div class="feature-card wow bounceInUp" data-wow-delay="0.6s">
                 <div class="card-icon">
@@ -75,11 +71,8 @@ const Features = () => {
                   Lorem Ipsum is simply dummy printing and typesetting.
                 </p>
               </div>
-            </ScrollAnimation>
           </li>
-
           <li class="feature-item">
-            <ScrollAnimation animateIn="bounceInDown" duration={4}>
               <div class="feature-card wow bounceInDown" data-wow-delay="0.9s">
                 <div class="card-icon">
                   <img
@@ -97,7 +90,6 @@ const Features = () => {
                   Lorem Ipsum is simply dummy printing and typesetting.
                 </p>
               </div>
-            </ScrollAnimation>
           </li>
         </ul>
 
