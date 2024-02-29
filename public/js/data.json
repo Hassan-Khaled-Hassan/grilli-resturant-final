@@ -1,0 +1,105 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "image": "/images/hero-slider-1.jpg",
+      "title": "Tradational & Hygine",
+      "head":" For the love of  delicious food",
+      "description": "Come with family & feel the joy of mouthwatering food"
+    },
+    {
+      "id": 2,
+      "image": "/images/hero-slider-2.jpg",
+      "title": "delightful experience",
+      "head": " Flavors Inspired by the Seasons",
+      "description": "Come with family & feel the joy of mouthwatering food"
+    },
+    {
+      "id": 3,
+      "image": "/images/hero-slider-3.jpg",
+      "title": " amazing & delicious",
+      "head": " Where every flavor tells a story",
+      "description": "Come with family & feel the joy of mouthwatering food"
+    }
+  ],
+  "SpecialMenus": [
+    {
+      "id": 1,
+      "image": "/images/img-01.jpg",
+      "name": "Special Drinks 1",
+      "parg": "Sed id magna vitae eros sagittis euismod.",
+      "price": "$7.79",
+      "category": ".drinks"
+    },
+    {
+      "id": 2,
+      "image": "/images/img-02.jpg",
+      "name": "Special Drinks 2",
+      "parg": "Sed id magna vitae eros sagittis euismod.",
+      "price": "$9.79",
+      "category": ".drinks"
+    },
+    {
+      "id": 3,
+      "image": "/images/img-03.jpg",
+      "name": "Special Drinks 3",
+      "parg": "Sed id magna vitae eros sagittis euismod.",
+      "price": "$10.79",
+      "category": ".drinks"
+    },
+    {
+      "id": 4,
+      "image": "/images/img-04.jpg",
+      "name": "Special Lunch  1",
+      "parg": "Sed id magna vitae eros sagittis euismod.",
+      "price": "$15.79",
+      "category": ".lunch"
+    },
+    {
+      "id": 5,
+      "image": "/images/img-05.jpg",
+      "name": "Special Lunch  2",
+      "parg": "Sed id magna vitae eros sagittis euismod.",
+      "price": "$18.79",
+      "category": ".lunch"
+    },
+    {
+      "id": 6,
+      "image": "/images/img-06.jpg",
+      "name": "Special Lunch  3",
+      "parg": "Sed id magna vitae eros sagittis euismod.",
+      "price": "$20.79",
+      "category": ".lunch"
+    },
+    {
+      "id": 7,
+      "image": "/images/img-07.jpg",
+      "name": "Special Dinner  1",
+      "parg": "Sed id magna vitae eros sagittis euismod.",
+      "price": "$25.79",
+      "category": ".dinner"
+    },
+    {
+      "id": 8,
+      "image": "/images/img-08.jpg",
+      "name": "Special Dinner  2",
+      "parg": "Sed id magna vitae eros sagittis euismod.",
+      "price": "$22.79",
+      "category": ".dinner"
+    },
+    {
+      "id": 9,
+      "image": "/images/img-09.jpg",
+      "name": "Special Dinner  3",
+      "parg": "Sed id magna vitae eros sagittis euismod.",
+      "price": "$24.79",
+      "category": ".dinner"
+    }
+  ],
+  "Gallery":[
+    {
+      "id": 1,
+      "image": "/images/img-01.jpg"
+    }
+  ]
+}
